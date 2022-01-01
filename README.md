@@ -3,8 +3,8 @@
 ## Sobre mim(About me):
 - Atualmente tentando me tornar um desenvolvedor mobile🧑🏽💻
 - Traying to become a mobile dev 🧑🏽💻
-- 📝Estou estudando: Flutter e React JS.
-- 📝Studying: Flutter and React JS.
+- 📝Estou estudando: Flutter.
+- 📝Studying: Flutter.
  
 <div> 
 
