@@ -1,10 +1,10 @@
 ## Olá! Me chamo Fabrício Cavalcante(Hi! My name is Fabrício Cavalcante)
    
 ## Sobre mim(About me):
-- Atualmente tentando me tornar um desenvolvedor mobile🧑🏽💻
-- Traying to become a mobile dev 🧑🏽💻
-- 📝Estou estudando: Flutter e Kotlin.
-- 📝Studying: Flutter and Kotlin.
+- Estudando desenvolvimento web Front-end e desenvolvimento mobile Flutter🧑🏽💻
+- Studying Front-end development and mobile Flutter development 🧑🏽💻
+- 📝Estou estudando: CSS, Javascript e Flutter.
+- 📝Studying: CSS, Javascript and Flutter.
  
 <div> 
 
